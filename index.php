@@ -29,7 +29,7 @@ if(isset($_POST['submit']) ) {
 <!DOCTYPE html>
 <html lang="en-US">
 	<head>
-	<title>Quick Response (QR) Code Generator</title>
+	<title>| Quick Response (QR) Code Generator |</title>
 	<link rel="icon" href="img/favicon.ico" type="image/png">
 	<link rel="stylesheet" href="libs/css/bootstrap.min.css">
 	<link rel="stylesheet" href="libs/style.css">
