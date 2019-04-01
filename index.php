@@ -66,7 +66,7 @@ if(isset($_POST['submit']) ) {
 		<div class="myoutput">
 			<h3><strong>Quick Response (QR) Code Generator</strong></h3>
 			<div class="input-field">
-				<h3>Please Fill-out All Fields</h3>
+				<h3>Please Fill-out All Fields!</h3>
 				<form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" >
 					<div class="form-group">
 						<label>Email</label>
