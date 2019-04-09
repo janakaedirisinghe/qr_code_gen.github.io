@@ -100,7 +100,7 @@ if(isset($_POST['submit']) ) {
 				</center>
 			</div>
 			<div class = "dllink" style="text-align:center;margin:-100px 0px 50px 0px;">
-				<h4>Developer :JP </h4>
+				<h4>Developer:JP </h4>
 			</div>
 		</div>
 	</body>
