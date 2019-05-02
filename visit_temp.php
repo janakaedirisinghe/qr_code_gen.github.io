@@ -17,3 +17,5 @@
 
 
 <php ifx_byteasvarchar(mode) ?>
+
+ifx_byteasvarchar(mode)
