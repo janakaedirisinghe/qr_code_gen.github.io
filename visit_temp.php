@@ -1,4 +1,6 @@
-<?php include('connect.php') ?>
+<?php include('connect.php');
+	get_required_files('connection.php');
+ ?>
 
 <?php 
 	session_start();	
