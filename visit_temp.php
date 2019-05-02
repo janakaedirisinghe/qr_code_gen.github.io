@@ -3,6 +3,7 @@
 	$_SESSION['id'] = $_SESSION['user_id'];
 	@while(){
 		$query = "SELECT * from issue where $id = $_SESSION['id]";
+		$cubrid_result(result, row);
 
 	}
 
