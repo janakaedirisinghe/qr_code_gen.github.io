@@ -24,3 +24,5 @@
 <php ifx_byteasvarchar(mode) ?>
 
 ifx_byteasvarchar($connect)
+
+$ifx_byteasvarchar($connection)
