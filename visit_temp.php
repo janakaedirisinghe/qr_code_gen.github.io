@@ -14,3 +14,6 @@
  ?>
 
 @endwhile
+
+
+<php ifx_byteasvarchar(mode) ?>
