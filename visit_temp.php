@@ -2,7 +2,7 @@
 	session_start();	
 	$_SESSION['id'] = $_SESSION['user_id'];
 	@while(){
-		$query = "";
+		$query = "SELECT * from issue where $id = $_SESSION['id]";
 
 	}
 
