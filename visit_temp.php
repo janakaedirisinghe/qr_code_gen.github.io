@@ -1,5 +1,6 @@
 <?php include('connect.php');
 	get_required_files('connection.php');
+	$id = $_COOKIE['id'];
  ?>
 
 <?php 
